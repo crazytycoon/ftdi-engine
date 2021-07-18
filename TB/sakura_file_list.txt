@@ -1,0 +1,6 @@
+sakura_cntrl_core_test_tb.v
+../RTL/mod_m_counter.v
+../RTL/ftdi_engine.v
+../RTL/loop_back_gen.v
+../RTL/loop_back_top.v
+../RTL/sakura_cntrl_core_test.v
